@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+#attribution {
+    position: fixed;
+    bottom: 4px;
+    left: 4px;
+    z-index: 1;
+    opacity: 0.2;
+    color: white
+}
+
+#attribution:hover {
+    opacity: 1;
+}
