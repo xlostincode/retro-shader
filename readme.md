@@ -1,6 +1,6 @@
 # Retro Shader
 
-![image](https://github.com/user-attachments/assets/86a82bb3-9969-4990-aea9-cf625efb92e4)
+![image](https://github.com/user-attachments/assets/77aa72b3-45c1-4894-9e5b-b046dd227b42)
 
 A simple scene inspired by the 80s synthwave aesthetic, made with shaders.
 
